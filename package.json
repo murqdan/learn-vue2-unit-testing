@@ -1,0 +1,23 @@
+{
+  "name": "vue2unittesting",
+  "version": "1.0.0",
+  "description": "learn vue unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murqdan/vue2UnitTesting.git"
+  },
+  "author": "murqdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murqdan/vue2UnitTesting/issues"
+  },
+  "homepage": "https://github.com/murqdan/vue2UnitTesting#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
